@@ -13,13 +13,13 @@ p {
   font-size: 14px;
   font-family: Arial;
 }
-.site-header {
-  background-color: darkcyan;
-  text-align: right;
-  padding: 8px;
+.site-header{
+  background-color:#cfe8ff !important;  
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:16px 24px;
+  text-align: initial;
 }
-.site-header .logo {
-  width: 200px;
-  height: 210px;
-  vertical-align: middle;
-}
+.site-header h1{ margin:0 auto; font-size:32px; }
+.site-header .logo{ width:120px; height:120px; vertical-align:middle; }
