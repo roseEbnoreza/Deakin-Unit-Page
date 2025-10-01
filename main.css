@@ -23,3 +23,6 @@ p {
   height: 210px;
   vertical-align: middle;
 }
+
+/* final tweak */
+.site-header{background-color:blue;text-align:right;padding:8px}
